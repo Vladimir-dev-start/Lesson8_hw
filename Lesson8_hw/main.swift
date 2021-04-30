@@ -7,8 +7,8 @@
 
 import Foundation
 
-//1. Задания сданы.
-//2. Вопрос:
+// 1. Задания сданы.
+// 2. Вопрос:
 
 protocol HumanProtocol {
     var height: Int { get set }
